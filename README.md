@@ -42,4 +42,7 @@
     a. {% appName /%} shall not be liable for any failure or delay in the performance of its obligations under this Agreement due to events beyond its reasonable control, including but not limited to acts of God, natural disasters, war, terrorism, strikes, labor disputes, governmental actions, or any other event classified as force majeure.
     b. In the event of force majeure, {% appName /%} reserves the right to suspend, delay, or terminate the Platform or any part thereof, without any liability or obligation towards you.
 
-By using the {% appName /%} charting platform, you acknowledge that you have read, understood, and agreed to be bound by the terms and conditions outlined in this Agreement.
+13. **Account Sharing Restriction:**
+   The sharing of accounts is strictly prohibited. Each account is intended for individual use only, and sharing login credentials with others is a violation of this Agreement. Any activity indicating unauthorized access or multiple users on a single account may result in suspension or termination of access to the Platform.
+
+By using the {% appName /%} platform, you acknowledge that you have read, understood, and agreed to be bound by the terms and conditions outlined in this Agreement.
